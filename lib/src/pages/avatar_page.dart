@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 class AvatarPage extends StatelessWidget {
   const AvatarPage({super.key});
-
+  static final pageName = 'avatar';
   @override
   Widget build(BuildContext context) {
     return Scaffold(

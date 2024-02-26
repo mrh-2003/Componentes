@@ -7,6 +7,10 @@ final _icons = <String, IconData>{
   'zoom_out': Icons.zoom_out,
   'donut_large': Icons.donut_large,
   'input': Icons.input,
+  'list': Icons.list,
+  'tune': Icons.tune,
+
+
 };
 
 Icon getIcon(String nombre){
